@@ -1,0 +1,12 @@
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\bin\Debug\MyProject.Entities.dll.config
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\bin\Debug\MyProject.Entities.dll
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\bin\Debug\MyProject.Entities.pdb
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\bin\Debug\EntityFramework.dll
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\bin\Debug\EntityFramework.xml
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\obj\Debug\MyProject.Entities.csproj.AssemblyReference.cache
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\obj\Debug\MyProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\obj\Debug\MyProject.Entities.csproj.CopyComplete
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\obj\Debug\MyProject.Entities.dll
+C:\Users\melisa.aka\source\repos\NlayeredAppDemo\MyProject.Entities\obj\Debug\MyProject.Entities.pdb
